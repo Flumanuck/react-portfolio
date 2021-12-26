@@ -161,6 +161,16 @@ footer aside {
   width: 251px;
 }
 
+#contact aside {
+  padding: 30px 0 0 20px;
+  height: 1000px;
+  width: 251px;
+}
+
+#contact {
+  display: flex;
+}
+
 .project-links {
   display: flex;
   justify-content: space-between;
@@ -177,6 +187,11 @@ footer aside {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
+}
+
+.form {
+  background-color: rgb(101, 221, 101);
+  width: 100%;
 }
 
 .sub-box {

@@ -2,8 +2,8 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer id="contact" class="header-footer">
-      <aside class="section-title footer-title">CONTACT ME</aside>
+    <footer id="links" className="header-footer">
+      <aside className="section-title footer-title">LINKS</aside>
       <nav>
         <ul>
           <li>
@@ -14,6 +14,11 @@ function Footer() {
           </li>
           <li>
             <a href="https://github.com/Flumanuck">Github</a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/jacob-machlis-729695159/">
+              LinkedIn
+            </a>
           </li>
           <li>
             <a href="https://www.youtube.com/user/Flumanuck">Youtube</a>

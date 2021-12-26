@@ -2,9 +2,9 @@ import React from "react";
 
 function Navbar() {
   return (
-    <div class="header header-footer">
+    <div className="header header-footer">
       <h1>
-        <a href="./index.html" class="name">
+        <a href="./index.html" className="name">
           Jacob Machlis
         </a>
       </h1>
@@ -20,7 +20,7 @@ function Navbar() {
             <a href="#contact">CONTACT</a>
           </li>
           <li>
-            <a href="#resume">RESUME</a>
+            <a href="#links">LINKS</a>
           </li>
         </ul>
       </nav>

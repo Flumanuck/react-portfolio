@@ -1,8 +1,9 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import About from "./components/Aboutme";
+import About from "./components/About";
 import Work from "./components/Work";
+import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <About />
       <Work />
+      <ContactForm />
       <Footer />
     </div>
   );

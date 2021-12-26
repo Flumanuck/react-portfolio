@@ -2,16 +2,16 @@ import React from "react";
 
 function Work() {
   return (
-    <article class="projects">
-      <aside id="work" class="section-title">
+    <article className="projects">
+      <aside id="work" className="section-title">
         WORK
       </aside>
-      <div class="flexbox">
+      <div className="flexbox">
         <section>
-          <div class="project-links image biggest">
+          <div className="project-links image biggest">
             <a href="https://gthov2.herokuapp.com/">
               <img
-                class="run-buddy"
+                className="run-buddy"
                 alt="gtho screenshot"
                 src={require("../images/Gtho2.0 screenshot.png")}
               />
@@ -19,41 +19,50 @@ function Work() {
           </div>
         </section>
       </div>
-      <div class="flexbox">
-        <section class="sub-box">
-          <div class="image project-links">
+      <div className="flexbox">
+        <section className="sub-box">
+          <div className="image project-links">
             <a href="https://flumanuck.github.io/Horiseon/">
               <img
-                class="smaller-links"
+                className="smaller-links"
                 alt="horiseon screenshot"
                 src={require("../images/Horiseon-screenshot.png")}
               />
             </a>
           </div>
-          <div class="image project-links">
+          <div className="image project-links">
             <a href="https://flumanuck.github.io/password-generator/">
               <img
-                class="smaller-links"
+                className="smaller-links"
                 alt="Password Generator Screenshot"
                 src={require("../images/Password-screenshot.PNG")}
               />
             </a>
           </div>
-          <div class="image project-links">
+          <div className="image project-links">
             <a href="https://flumanuck.github.io/coding-quiz/">
               <img
-                class="smaller-links"
+                className="smaller-links"
                 alt="coding quiz screensot"
                 src={require("../images/Screenshot.PNG")}
               />
             </a>
           </div>
-          <div class="image project-links">
+          <div className="image project-links">
             <a href="https://flumanuck.github.io/run-buddy/">
               <img
-                class="smaller-links"
+                className="smaller-links"
                 alt="Run Buddy Screenshot"
                 src={require("../images/Run-buddy.PNG")}
+              />
+            </a>
+          </div>
+          <div className="image project-links">
+            <a href="https://notet.herokuapp.com/">
+              <img
+                className="smaller-links"
+                alt="Note Taker Screenshot"
+                src={require("../images/Screenshot-main.PNG")}
               />
             </a>
           </div>
