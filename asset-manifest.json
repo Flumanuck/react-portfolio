@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.582bbef6.css",
+    "main.js": "/react-portfolio/static/js/main.3651c7ea.js",
+    "static/media/Run-buddy.PNG": "/react-portfolio/static/media/Run-buddy.cf3e89f6fd45e10239ee.PNG",
+    "static/media/Horiseon-screenshot.png": "/react-portfolio/static/media/Horiseon-screenshot.b5792a21625dc88f40bd.png",
+    "static/media/Gtho2.0 screenshot.png": "/react-portfolio/static/media/Gtho2.0 screenshot.c76933670c375c277ec1.png",
+    "static/media/blue-curtains.jpg": "/react-portfolio/static/media/blue-curtains.d2e91e92d0fd1880c929.jpg",
+    "static/media/sparkles-bg-image.jpeg": "/react-portfolio/static/media/sparkles-bg-image.b6f0c82dc5ca730ec113.jpeg",
+    "static/media/Screenshot-main.PNG": "/react-portfolio/static/media/Screenshot-main.f8e1f8fb0ea874abbb80.PNG",
+    "static/media/Headshot.jpg": "/react-portfolio/static/media/Headshot.289ad2445e5f71156384.jpg",
+    "static/media/Password-screenshot.PNG": "/react-portfolio/static/media/Password-screenshot.5f7ca866056f0ec47a06.PNG",
+    "static/media/Screenshot.PNG": "/react-portfolio/static/media/Screenshot.61952145e8af2410d3e2.PNG",
+    "index.html": "/react-portfolio/index.html",
+    "main.582bbef6.css.map": "/react-portfolio/static/css/main.582bbef6.css.map",
+    "main.3651c7ea.js.map": "/react-portfolio/static/js/main.3651c7ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582bbef6.css",
+    "static/js/main.3651c7ea.js"
+  ]
+}
