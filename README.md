@@ -10,7 +10,7 @@
 
 ## Description
 
-This is a website designed to show off prior completed projects. This Website was made using react.
+This is a website designed to bea portfolio in order to show off prior completed projects to potential employers. This Website was made using react, html, and css.
 
 ## Installation
 
