@@ -21,4 +21,4 @@ Click the project you wish to look at. If you wish to contact me, fill out the f
 
 ## Screenshot
 
-![Screenshot of Site](./client/src/images/site-screenshot.PNG)
+![Screenshot of Site](./src/images/site-screenshot.PNG)
