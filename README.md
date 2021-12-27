@@ -6,6 +6,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshot](#screenshot)
+- [Link](#link)
 
 ## Description
 
@@ -13,7 +14,7 @@ This is a website designed to show off prior completed projects. This Website wa
 
 ## Installation
 
-npm i
+Run npm i to install the needed dependancies.
 
 ## Usage
 
@@ -22,3 +23,7 @@ Click the project you wish to look at. If you wish to contact me, fill out the f
 ## Screenshot
 
 ![Screenshot of Site](./src/images/site-screenshot.PNG)
+
+## Link
+
+https://flumanuck.github.io/react-portfolio/
