@@ -43,17 +43,17 @@ function Work() {
             <a href="https://flumanuck.github.io/coding-quiz/">
               <img
                 className="smaller-links"
-                alt="coding quiz screensot"
+                alt="coding quiz screenshot"
                 src={require("../images/Screenshot.PNG")}
               />
             </a>
           </div>
           <div className="image project-links">
-            <a href="https://flumanuck.github.io/run-buddy/">
+            <a href="https://detemination-0513.herokuapp.com/">
               <img
                 className="smaller-links"
-                alt="Run Buddy Screenshot"
-                src={require("../images/Run-buddy.PNG")}
+                alt="determined screenshot"
+                src={require("../images/Determined.png")}
               />
             </a>
           </div>
